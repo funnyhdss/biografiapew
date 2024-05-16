@@ -1,0 +1,145 @@
+
+  
+  body {
+    background-size: cover;
+    background-image: url(logopew.png);
+    color: #3f3d3e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    }
+  h1 {
+    text-align: center;
+    font-size: 35px;
+    height: 60px;
+    color: #ffffff;
+    text-shadow: 2px 2px 5px red;
+  }
+  
+  p {
+    font-size: 14.8px;
+    margin-left: 50px;
+  }
+  .linha {
+    font-size: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 100vh;
+    margin-bottom: 100px;
+  }
+  
+  .texto {
+    background-color: lightgrey;
+    border-radius: 2.5vh;
+    width: 45%;
+    border: 1vh solid #ffffff;
+    padding: 0 20px;
+    margin: 10px;
+    height: 100%;
+  }
+
+  .bjorn {
+    width: 82.5vh;
+    height: 40vh;
+  }
+
+  .button1 {
+    background-color: #ff0000;
+    border-radius: 2vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button2 {
+    background-color: #ad04ad;
+    border-radius: 2vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button3 {
+    background-color: #3d87ff;
+    border-radius: 2vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button4 {
+    background-color: #dc7d0a;
+    border-radius: 2vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .texto1 {
+    background-color: lightgrey;
+    border-radius: 2.5vh;
+    width: 50%;
+    border: 1vh solid #ffffff;
+    padding: 30px;
+    margin: 10px;
+    height: 112%;
+  }
+  
+.bucha {
+  height: 30vh;
+  width: 60vh;
+}
+
+  .button5 {
+    background-color: #ff0000;
+    border-radius: 2vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2vh 32vh;
+    cursor: pointer;
+    
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  img {
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    padding: 2px;
+    width: 100%;
+    height: 200px;
+  }
